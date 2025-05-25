@@ -1,0 +1,66 @@
+body {
+     margin-top: 20px;
+     padding-left: 20px;
+     background-color: whitesmoke;
+     color: white;
+}
+
+#listar {
+     padding: 2;
+     margin: 2;
+     border-radius: 8px;
+     background: blue;
+     color: white;
+     box-shadow: 3px 3px 8px darkblue;
+     
+}
+
+#listar:hover {
+     transition: 0.8s;
+     background: green;
+}
+
+#filtro-form {
+    
+
+}
+
+#categoria {
+     background: blue;
+     color: white;
+     border-radius: 8px;
+     
+     
+}
+#section {
+     background-color: black;
+     height: 100px;
+     width: 200px;
+     border-radius: 8px ;
+     display:grid;
+
+}
+
+#produtos {
+     background-color: green;
+     margin-top: 20PX;
+     border-radius: 8px;
+     border: solid black;
+     color: black;
+}
+
+#produtos:hover {
+     transform: scale(1.1,1.2)
+     
+}
+
+.botton {
+     border-radius: 8px;
+     color: white;
+     background: blue;
+}
+
+.botton:hover {
+     transition: 1.2s;
+     background-color: green;
+}
